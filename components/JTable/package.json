@@ -1,0 +1,10 @@
+{
+  "name": "@mccannsean421/j-table",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@mccannsean421/j-table-row": "^0.0.1"
+  }
+}
